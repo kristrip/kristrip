@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kristrip
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Basic Data Science Project
+- 👋 Hi, I’m Krishna Tripathi
+- 👀 I’m interested in Data Science and Data Analytics
+- 🌱 I’m currently learning Machine Learning (Algorithms)
+- 💞️ I’m looking to collaborate on Data Science Project
 - 📫 How to reach me kristrip26@gmail.com
 
 <!---
