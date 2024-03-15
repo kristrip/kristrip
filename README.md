@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kristrip26@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ABuZ6TQ3O6KuCsEUrQTcO5trnLW4HW7W/view?usp=drive_link](https://drive.google.com/file/d/1ABuZ6TQ3O6KuCsEUrQTcO5trnLW4HW7W/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1ABuZ6TQ3O6KuCsEUrQTcO5trnLW4HW7W/view?usp=drive_link](https://drive.google.com/file/d/1ABuZ6TQ3O6KuCsEUrQTcO5trnLW4HW7W/view?usp=drive_link](https://drive.google.com/file/d/1rGAkePAokP2xtCpipK-9QHtyUxOnTLwx/view?usp=sharing))
 
 - ⚡ Fun fact **Can hold Conversation!**
 
